@@ -1,4 +1,4 @@
-# pegaenginejavadocs
+# Pega Platform Engine Javadocs
 
 ## Pega Platform 24.1, 24.2, 25
 
